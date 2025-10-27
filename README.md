@@ -37,34 +37,13 @@
         .player-header {
             text-align: center;
             margin-bottom: 25px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 15px;
-        }
-        
-        .logo {
-            width: 50px;
-            height: 50px;
-            border-radius: 50%;
-            overflow: hidden;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background: #fff;
-            padding: 5px;
-        }
-        
-        .logo img {
-            width: 100%;
-            height: 100%;
-            object-fit: contain;
         }
         
         .player-header h1 {
-            font-size: 1.8rem;
+            font-size: 2.2rem;
             font-weight: 300;
-            letter-spacing: 1px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
         }
         
         .album-art {
@@ -336,9 +315,6 @@
 <body>
     <div class="music-player">
         <div class="player-header">
-            <div class="logo">
-                <img src="https://i.ibb.co/F4cP5Ccn/image.png" alt="Harmony Logo">
-            </div>
             <h1>HARMONY</h1>
         </div>
         
