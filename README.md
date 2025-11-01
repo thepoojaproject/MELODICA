@@ -315,7 +315,7 @@
 <body>
     <div class="music-player">
         <div class="player-header">
-            <h1>HARMONY</h1>
+            <h1>MELODICA</h1>
         </div>
         
         <div class="album-art" id="album-art">
